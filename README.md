@@ -11,4 +11,4 @@
 
 -Customizable characters
 
--many bosses
+-Many bosses
