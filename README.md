@@ -1,8 +1,4 @@
-# Soap's Releases
-
-## Sir -1
-
-## Deep in the Dungeon
+# Deep in the Dungeon
 -Randomized dungeons, loot, etc.
 
 -Class system, as well as subclasses with different abilities
