@@ -16,6 +16,4 @@
 
 -Class system, but only 2 of the classes, and only one you can actually choose rn
 
--Steelplate, probably one of the more difficult bosses
-
--3 items, the bow, the sword, and the spear
+-3 items, maybe 4 items
