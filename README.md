@@ -16,4 +16,6 @@
 
 -Class system, but only 2 of the classes, and only one you can actually choose rn
 
--3 items, maybe 4 items
+-6 items
+
+-3 enemies
