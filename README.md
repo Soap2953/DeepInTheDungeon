@@ -11,7 +11,7 @@
 
 -Many bosses
 
-## Whats going to be in the alpha version (next version)
+## v0.1.0
 -Randomized dungones, but only the semi-random edition
 
 -Class system, but only 2 of the classes, and only one you can actually choose rn
