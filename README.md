@@ -19,3 +19,18 @@
 -6 items
 
 -3 enemies
+
+## v0.1.1
+
+### Balance Changes
+
+-Crossblades, Knif, Spear and Bow all deal 2 more base damage
+-Scattershot spread reduced by 3
+-Scuttler stats nerfed by half, except for speed
+-Spear O V E R H A U L (handle now deals damage at 2/3 the damage)
+
+### New Stuff
+
+-Main menu
+-Game no longer crashes upon death
+-You can now select class and go into fullscreen
