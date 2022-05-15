@@ -40,6 +40,6 @@
 
 -You can now select class and go into fullscreen
 
-### 0.2
+## v0.2.0
 
 and beyond will be moved to Itch.io, I'll post a link there
