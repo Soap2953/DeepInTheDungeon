@@ -39,3 +39,7 @@
 -Game no longer crashes upon death
 
 -You can now select class and go into fullscreen
+
+### 0.2
+
+and beyond will be moved to Itch.io, I'll post a link there
