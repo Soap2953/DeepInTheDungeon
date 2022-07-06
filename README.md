@@ -42,4 +42,14 @@
 
 ## v0.2.0
 
-and beyond will be moved to Itch.io, I'll post a link there
+### MASSIVE OVERHAUL
+
+-added a few new enemies, layouts, tweaked loot pools, etc.
+
+-many new weapons to find in this version, including Mythical Weapons, which are very powerful weapons
+
+-new mechanics including life regen, reloading, and even a simple crafting station
+
+-2 bosses to fight off. good luck
+
+-arcade mode allows for truely random everything, turning the roguelite into a roguelike
